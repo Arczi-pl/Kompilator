@@ -1,6 +1,7 @@
 # AUTOR: Artur Sikorski, 250086
 Zadanie zaliczeniowe laboratorium kursu Języki Formalne i Techniki Translacji
 prowadzonego w semestrze zimowym 2020/2021 przez dr. Maćka Gębalę.
+Autor maszyny wirtualnej: dr. Maciek Gębala
 
 # INSTALACJA:
 Przykładowa instalacja
